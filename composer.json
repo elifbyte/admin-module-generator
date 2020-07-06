@@ -28,7 +28,7 @@
     "illuminate/console": "~6.0",
     "doctrine/dbal": "^2.6.0",
     "laravel/helpers": "~1.0",
-    "nwidart/laravel-modules": "^6.2"
+    "nwidart/laravel-modules": "^5.0 || ^6.0 || ^7.0"
   },
   "require-dev": {
     "orchestra/testbench": "~4.0",
